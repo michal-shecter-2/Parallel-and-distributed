@@ -1,0 +1,117 @@
+F:\יד\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+F:\יד\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+F:\יד\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+F:\יד\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+F:\יד\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+F:\יד\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+F:\יד\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+F:\יד\פרויקט חישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+C:\Users\1\Desktop\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+C:\Users\1\Desktop\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+C:\Users\1\Desktop\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+C:\Users\1\Desktop\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+C:\Users\1\Desktop\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+C:\Users\1\Desktop\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+C:\Users\1\Desktop\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+C:\Users\212280358\Desktop\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+F:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+F:\אילה רינמן\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+H:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+G:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+D:\פרויקט בחישוב מקבילי\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache

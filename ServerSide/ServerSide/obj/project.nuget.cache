@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBoGIYPIS4qfUsQnpygDRRTz+nTmGMHG6SZO8m0YJJkhMBFw3oBL69XLlh5y5yANx5RiwkgxoK2oNI6e5JDkiQ==",
+  "success": true,
+  "projectFilePath": "G:\\פרויקט בחישוב מקבילי\\ServerSide\\ServerSide\\ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
